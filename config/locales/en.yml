@@ -21,3 +21,25 @@
 
 en:
   hello: "Hello world"
+  header: "Que Application"
+  marketing_content: "Here is some text. Some more text and some more text. text and some more text. text and some more text. text and some more text. text and some more text. "
+  activerecord:
+    errors:
+      models:
+        que:
+          attributes:
+            email:
+              blank: "fill shit in please."
+
+    attributes:
+      que:
+        name: "Preson sup man"
+        email: "E-mail"
+
+
+
+
+
+
+
+
