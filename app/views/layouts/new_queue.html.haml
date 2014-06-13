@@ -1,0 +1,9 @@
+!!!
+%html
+  %head
+    %title Class 12
+    = javascript_include_tag 'application', 'data-turbolinks-track' => true
+    = csrf_meta_tags
+  %body
+    %h1 This is a separate layout
+    = yield
